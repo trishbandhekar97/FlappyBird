@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/robpercival/Downloads/android_oldprojects/FlappyBird/android/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="2ba84372441a46fa81c2b45ca3f38fc55be81c27">
+        <dex dex="/Users/robpercival/Downloads/android_oldprojects/FlappyBird/android/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_665e5fbcdf8db180648db0354adce6d424b519cb/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/robpercival/.gradle/caches/modules-2/files-2.1/com.badlogicgames.gdx/gdx-backend-android/1.6.5/47d6744474ff276a8f92e92d22d7c956f5c832f0/gdx-backend-android-1.6.5.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="47d6744474ff276a8f92e92d22d7c956f5c832f0">
+        <dex dex="/Users/robpercival/Downloads/android_oldprojects/FlappyBird/android/build/intermediates/transforms/dex/debug/folders/1000/10/gdx-backend-android-1.6.5_e5d7cb7155dfd3fee1201816279f7fa9c8654bbb/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/robpercival/.gradle/caches/modules-2/files-2.1/com.badlogicgames.gdx/gdx-box2d/1.6.5/d81b49d6bc9aa29518fcaa7db9474fe7405fa324/gdx-box2d-1.6.5.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="d81b49d6bc9aa29518fcaa7db9474fe7405fa324">
+        <dex dex="/Users/robpercival/Downloads/android_oldprojects/FlappyBird/android/build/intermediates/transforms/dex/debug/folders/1000/10/gdx-box2d-1.6.5_e8c6cdf05b9597656d6ec514ac388a74ffef7979/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/robpercival/Downloads/android_oldprojects/FlappyBird/android/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="e16d087d633c2326e53c2bf0bb43ca5a3280d42f">
+        <dex dex="/Users/robpercival/Downloads/android_oldprojects/FlappyBird/android/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_f2f66ddac9783b728ffdd0a1f9323bac2c9e9de8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/robpercival/.gradle/caches/modules-2/files-2.1/com.badlogicgames.gdx/gdx/1.6.5/b56ebcc34d39c4bb0a828c5ed04f46a04314bb4d/gdx-1.6.5.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="b56ebcc34d39c4bb0a828c5ed04f46a04314bb4d">
+        <dex dex="/Users/robpercival/Downloads/android_oldprojects/FlappyBird/android/build/intermediates/transforms/dex/debug/folders/1000/10/gdx-1.6.5_823897323b16cec61d9dd24c51225f203388e636/classes.dex" />
+    </item>
+
+</items>
